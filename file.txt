@@ -1,0 +1,12 @@
+There are more Tools in the DevOps.
+Linux
+Git
+GitHub
+Shell Script
+CI/CD(Jenkins)
+Docker
+K8's
+terraform
+ansible
+
+
